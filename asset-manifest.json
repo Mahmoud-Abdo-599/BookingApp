@@ -1,28 +1,34 @@
 {
   "files": {
     "main.css": "/BookingApp/static/css/main.b3c7a8b6.chunk.css",
-    "main.js": "/BookingApp/static/js/main.99ace5d4.chunk.js",
-    "main.js.map": "/BookingApp/static/js/main.99ace5d4.chunk.js.map",
+    "main.js": "/BookingApp/static/js/main.f2547c85.chunk.js",
+    "main.js.map": "/BookingApp/static/js/main.f2547c85.chunk.js.map",
     "runtime-main.js": "/BookingApp/static/js/runtime-main.9a7b23b1.js",
     "runtime-main.js.map": "/BookingApp/static/js/runtime-main.9a7b23b1.js.map",
-    "static/js/2.c3708eca.chunk.js": "/BookingApp/static/js/2.c3708eca.chunk.js",
-    "static/js/2.c3708eca.chunk.js.map": "/BookingApp/static/js/2.c3708eca.chunk.js.map",
+    "static/js/2.0d0332f1.chunk.js": "/BookingApp/static/js/2.0d0332f1.chunk.js",
+    "static/js/2.0d0332f1.chunk.js.map": "/BookingApp/static/js/2.0d0332f1.chunk.js.map",
     "index.html": "/BookingApp/index.html",
-    "precache-manifest.b447638cc123a5bede2d25354e5a4e93.js": "/BookingApp/precache-manifest.b447638cc123a5bede2d25354e5a4e93.js",
+    "precache-manifest.28469c4359f664413ed45d3fcb65b160.js": "/BookingApp/precache-manifest.28469c4359f664413ed45d3fcb65b160.js",
     "service-worker.js": "/BookingApp/service-worker.js",
     "static/css/main.b3c7a8b6.chunk.css.map": "/BookingApp/static/css/main.b3c7a8b6.chunk.css.map",
-    "static/js/2.c3708eca.chunk.js.LICENSE.txt": "/BookingApp/static/js/2.c3708eca.chunk.js.LICENSE.txt",
+    "static/js/2.0d0332f1.chunk.js.LICENSE.txt": "/BookingApp/static/js/2.0d0332f1.chunk.js.LICENSE.txt",
+    "static/media/aircraft-take-off.1c7c557e.svg": "/BookingApp/static/media/aircraft-take-off.1c7c557e.svg",
+    "static/media/bookmark.f20a50bb.svg": "/BookingApp/static/media/bookmark.f20a50bb.svg",
+    "static/media/chat.7e246b49.svg": "/BookingApp/static/media/chat.7e246b49.svg",
     "static/media/main.scss": "/BookingApp/static/media/chevron-thin-right.c7fedfa0.svg",
+    "static/media/home.c5057c54.svg": "/BookingApp/static/media/home.c5057c54.svg",
     "static/media/hotel-1.jpg": "/BookingApp/static/media/hotel-1.5a550a3d.jpg",
     "static/media/hotel-2.jpg": "/BookingApp/static/media/hotel-2.5468a3b1.jpg",
     "static/media/hotel-3.jpg": "/BookingApp/static/media/hotel-3.7af5efbc.jpg",
-    "static/media/sprite.svg": "/BookingApp/static/media/sprite.3203e8f6.svg",
+    "static/media/key.d7d0212d.svg": "/BookingApp/static/media/key.d7d0212d.svg",
+    "static/media/magnifying-glass.f9737d3e.svg": "/BookingApp/static/media/magnifying-glass.f9737d3e.svg",
+    "static/media/map.df9b239d.svg": "/BookingApp/static/media/map.df9b239d.svg",
     "static/media/user.jpg": "/BookingApp/static/media/user.7ca629d2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9a7b23b1.js",
-    "static/js/2.c3708eca.chunk.js",
+    "static/js/2.0d0332f1.chunk.js",
     "static/css/main.b3c7a8b6.chunk.css",
-    "static/js/main.99ace5d4.chunk.js"
+    "static/js/main.f2547c85.chunk.js"
   ]
 }
