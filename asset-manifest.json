@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BookingApp/static/css/main.b3c7a8b6.chunk.css",
-    "main.js": "/BookingApp/static/js/main.1e0e3120.chunk.js",
-    "main.js.map": "/BookingApp/static/js/main.1e0e3120.chunk.js.map",
+    "main.js": "/BookingApp/static/js/main.75179d55.chunk.js",
+    "main.js.map": "/BookingApp/static/js/main.75179d55.chunk.js.map",
     "runtime-main.js": "/BookingApp/static/js/runtime-main.9a7b23b1.js",
     "runtime-main.js.map": "/BookingApp/static/js/runtime-main.9a7b23b1.js.map",
     "static/js/2.38ec85cb.chunk.js": "/BookingApp/static/js/2.38ec85cb.chunk.js",
     "static/js/2.38ec85cb.chunk.js.map": "/BookingApp/static/js/2.38ec85cb.chunk.js.map",
     "index.html": "/BookingApp/index.html",
-    "precache-manifest.b6e5fdde87ba362e4ba975df3a575bca.js": "/BookingApp/precache-manifest.b6e5fdde87ba362e4ba975df3a575bca.js",
+    "precache-manifest.cbba3843edcd610acd1c977f3711cf4b.js": "/BookingApp/precache-manifest.cbba3843edcd610acd1c977f3711cf4b.js",
     "service-worker.js": "/BookingApp/service-worker.js",
     "static/css/main.b3c7a8b6.chunk.css.map": "/BookingApp/static/css/main.b3c7a8b6.chunk.css.map",
     "static/js/2.38ec85cb.chunk.js.LICENSE.txt": "/BookingApp/static/js/2.38ec85cb.chunk.js.LICENSE.txt",
@@ -17,9 +17,9 @@
     "static/media/chat.7e246b49.svg": "/BookingApp/static/media/chat.7e246b49.svg",
     "static/media/main.scss": "/BookingApp/static/media/chevron-thin-right.c7fedfa0.svg",
     "static/media/home.c5057c54.svg": "/BookingApp/static/media/home.c5057c54.svg",
-    "static/media/hotel-1.jpg": "/BookingApp/static/media/hotel-1.5a550a3d.jpg",
-    "static/media/hotel-2.jpg": "/BookingApp/static/media/hotel-2.5468a3b1.jpg",
-    "static/media/hotel-3.jpg": "/BookingApp/static/media/hotel-3.7af5efbc.jpg",
+    "static/media/hotel-1.jpg": "/BookingApp/static/media/hotel-1.ff820542.jpg",
+    "static/media/hotel-2.jpg": "/BookingApp/static/media/hotel-2.9ea1fc1e.jpg",
+    "static/media/hotel-3.jpg": "/BookingApp/static/media/hotel-3.a21d6486.jpg",
     "static/media/key.d7d0212d.svg": "/BookingApp/static/media/key.d7d0212d.svg",
     "static/media/magnifying-glass.f9737d3e.svg": "/BookingApp/static/media/magnifying-glass.f9737d3e.svg",
     "static/media/map.df9b239d.svg": "/BookingApp/static/media/map.df9b239d.svg",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.9a7b23b1.js",
     "static/js/2.38ec85cb.chunk.js",
     "static/css/main.b3c7a8b6.chunk.css",
-    "static/js/main.1e0e3120.chunk.js"
+    "static/js/main.75179d55.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f223295fe15ca8b76502f1dfb793fbf1",
+    "revision": "046cf7f45bb94ce330e0b4a288d093de",
     "url": "/BookingApp/index.html"
   },
   {
-    "revision": "db7d6f5d18553fa572bc",
+    "revision": "d0c489f7a43a56d5f36b",
     "url": "/BookingApp/static/css/main.b3c7a8b6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BookingApp/static/js/2.38ec85cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db7d6f5d18553fa572bc",
-    "url": "/BookingApp/static/js/main.1e0e3120.chunk.js"
+    "revision": "d0c489f7a43a56d5f36b",
+    "url": "/BookingApp/static/js/main.75179d55.chunk.js"
   },
   {
     "revision": "2b1f63b4844dbfef15a8",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BookingApp/static/media/home.c5057c54.svg"
   },
   {
-    "revision": "5a550a3da0d63bfa7ec73ac1f1acdbba",
-    "url": "/BookingApp/static/media/hotel-1.5a550a3d.jpg"
+    "revision": "ff8205421bc1fbf1263b2eadb5dfc085",
+    "url": "/BookingApp/static/media/hotel-1.ff820542.jpg"
   },
   {
-    "revision": "5468a3b162abcbb501141ce0e7f4aa6e",
-    "url": "/BookingApp/static/media/hotel-2.5468a3b1.jpg"
+    "revision": "9ea1fc1e25f0bfc10ea6c8172880e7a3",
+    "url": "/BookingApp/static/media/hotel-2.9ea1fc1e.jpg"
   },
   {
-    "revision": "7af5efbc95e0464867f4327aee208ad5",
-    "url": "/BookingApp/static/media/hotel-3.7af5efbc.jpg"
+    "revision": "a21d6486bd15e1540575309415afb049",
+    "url": "/BookingApp/static/media/hotel-3.a21d6486.jpg"
   },
   {
     "revision": "d7d0212d8bc3c46656875534372e6e95",
