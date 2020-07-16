@@ -1,25 +1,28 @@
 {
   "files": {
     "main.css": "/BookingApp/static/css/main.b3c7a8b6.chunk.css",
-    "main.js": "/BookingApp/static/js/main.6d9e58e4.chunk.js",
-    "main.js.map": "/BookingApp/static/js/main.6d9e58e4.chunk.js.map",
+    "main.js": "/BookingApp/static/js/main.99ace5d4.chunk.js",
+    "main.js.map": "/BookingApp/static/js/main.99ace5d4.chunk.js.map",
     "runtime-main.js": "/BookingApp/static/js/runtime-main.9a7b23b1.js",
     "runtime-main.js.map": "/BookingApp/static/js/runtime-main.9a7b23b1.js.map",
-    "static/js/2.d196e02a.chunk.js": "/BookingApp/static/js/2.d196e02a.chunk.js",
-    "static/js/2.d196e02a.chunk.js.map": "/BookingApp/static/js/2.d196e02a.chunk.js.map",
+    "static/js/2.c3708eca.chunk.js": "/BookingApp/static/js/2.c3708eca.chunk.js",
+    "static/js/2.c3708eca.chunk.js.map": "/BookingApp/static/js/2.c3708eca.chunk.js.map",
     "index.html": "/BookingApp/index.html",
-    "precache-manifest.7b9371b9ea7bf157b654eabcae2fef88.js": "/BookingApp/precache-manifest.7b9371b9ea7bf157b654eabcae2fef88.js",
+    "precache-manifest.b447638cc123a5bede2d25354e5a4e93.js": "/BookingApp/precache-manifest.b447638cc123a5bede2d25354e5a4e93.js",
     "service-worker.js": "/BookingApp/service-worker.js",
     "static/css/main.b3c7a8b6.chunk.css.map": "/BookingApp/static/css/main.b3c7a8b6.chunk.css.map",
-    "static/js/2.d196e02a.chunk.js.LICENSE.txt": "/BookingApp/static/js/2.d196e02a.chunk.js.LICENSE.txt",
+    "static/js/2.c3708eca.chunk.js.LICENSE.txt": "/BookingApp/static/js/2.c3708eca.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/BookingApp/static/media/chevron-thin-right.c7fedfa0.svg",
+    "static/media/hotel-1.jpg": "/BookingApp/static/media/hotel-1.5a550a3d.jpg",
+    "static/media/hotel-2.jpg": "/BookingApp/static/media/hotel-2.5468a3b1.jpg",
+    "static/media/hotel-3.jpg": "/BookingApp/static/media/hotel-3.7af5efbc.jpg",
     "static/media/sprite.svg": "/BookingApp/static/media/sprite.3203e8f6.svg",
     "static/media/user.jpg": "/BookingApp/static/media/user.7ca629d2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9a7b23b1.js",
-    "static/js/2.d196e02a.chunk.js",
+    "static/js/2.c3708eca.chunk.js",
     "static/css/main.b3c7a8b6.chunk.css",
-    "static/js/main.6d9e58e4.chunk.js"
+    "static/js/main.99ace5d4.chunk.js"
   ]
 }
